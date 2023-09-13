@@ -2,13 +2,16 @@
 
 <br>
 
+[cap-converso-romano.webm](https://github.com/RonaldoFidelis/converso-romano/assets/92171641/03af0ab1-7a21-4a26-8f1b-a293b0f2987a)
+
+<br>
+
 > Teste você mesmo: <a href="https://desafio-01-converso-romano.netlify.app/" target="_blank">Converso Romano</a>
 
 ## Desafio
 
-- Criar um conversor de números romanos para arábicos e vice-versa. Considerar apenas números inteiros positivos entre 1 e 3999.
+> Criar um conversor de números romanos para arábicos e vice-versa. Considerar apenas números inteiros positivos entre 1 e 3999.
 
-> [!NOTE]\
 > - Algarismos de menor ou igual valor à direita são somados ao algarismo de maior valor;
 > - Algarismos de menor valor à esquerda são subtraídos do algarismo de maior valor;
 > - Um algarismo não pode ser repetido lado a lado por mais de três vezes. Assim, para representar 300, podemos usar CCC; para representar 400, entretanto, precisamos escrever CD;
@@ -25,4 +28,4 @@
 
 ## 📝 Maiores aprendizados
 
-* Apronfundado pensamento lógico
+* Lógica
